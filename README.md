@@ -1,5 +1,5 @@
 # Mapping Musical Blueprints and Psychophysiological States
-Aaron Mares
+By: Aaron Mares
 
 # Abstract
 What speaks to your soul? The answer of course is nonlinear and can be discussed through such a wide variety of mediums and scopes that it could take years to process any one person’s response. Our group directs this question with a pressing emphasis on what would very likely be a common response to it: music. Music has for eons, both in the metaphorical sense and in the proven modern scientific world, struck chords within certain facets of an individual's makeup. Often described as a creative outlet, explosive force of expression, deeply emotional and moving pinnacle of human culture, or therapeutic enhancement, the potential of this art has only been scratched and the vast majority of its full applications could very well currently still be undiscovered.
