@@ -1,8 +1,8 @@
 # Mapping Musical Blueprints and Psychophysiological States
 Aaron Mares
-April 22nd 2019
-Professor Ahmed Helmy
-CIS4930/6930  Mobile Networking
+\nApril 22nd 2019
+\nProfessor Ahmed Helmy
+\nCIS4930/6930  Mobile Networking
 
 
 # Abstract
